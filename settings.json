@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rplayz267.aternos.me:17846",
+    "ip": "rplayz267.aternos.me",
     "port": 17846,
     "version": "",
     "try-creative": false
